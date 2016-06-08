@@ -1,6 +1,6 @@
 {
   "name": "uber-api-gb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uber Api Wrapper",
   "main": "index.js",
   "scripts": {
