@@ -1,0 +1,31 @@
+{
+  "name": "uber-api-gb",
+  "version": "1.0.0",
+  "description": "Uber Api Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gat-Blac/uber-api-gb.git"
+  },
+  "keywords": [
+    "uber",
+    "gat-blac",
+    "gb"
+  ],
+  "author": "Gat-Blac <contacto@gat-blac.com> (http://gat-blac.com)",
+  "bugs": {
+    "url": "https://github.com/Gat-Blac/uber-api-gb/issues"
+  },
+  "homepage": "https://github.com/Gat-Blac/uber-api-gb",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
