@@ -1,4 +1,4 @@
-#node-gat-blac-api
+#uber-api-gb
 =========
 
 [![npm package](https://nodei.co/npm/uber-api-gb.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/uber-api-gb/)
@@ -55,7 +55,7 @@ uberApi.getEstimatePrice({'start_latitude': -33.4623784,'start_longitude': -70.6
       }
 });
 ```
-### Obtener un tiempo de espera 
+### Obtener un tiempo de espera
 ```javascript
 var UberApi = require('uber-api-gb');
 var uberApi = new UberApi('YOUR_SERVER_KEY');
